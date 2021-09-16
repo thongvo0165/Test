@@ -2,19 +2,18 @@
 body{
     background-image: url(TVU.jpg);
 }
-#bang1{
+.bang1{
     background-color: white;
 }
-#hang1{
+.hang1{
     background-color:pink;
 }
 
 .btn {
     font-size: 14px;
     padding: 8px;
-    background-color: green;
-    color: white;
+    background-color:pink;
+    color: black;
     text-decoration: none;
 }
 
-/* Về màu sac thì ban chỉ lại theo ý của bạn nha, Ok tks */
